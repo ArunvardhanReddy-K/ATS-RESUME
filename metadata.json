@@ -1,0 +1,5 @@
+{
+  "name": "ATS Score Analyzer",
+  "description": "An intelligent web application that analyzes your resume against a job description, provides an ATS score, and offers actionable suggestions for improvement using the Gemini API.",
+  "requestFramePermissions": []
+}
